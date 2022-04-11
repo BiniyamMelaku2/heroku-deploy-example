@@ -13,7 +13,7 @@
 
 ## 1. Deploy Heroku app
 
-* [Deploying a Python Flask Example Application Using Heroku](./.'Deploying a Python Flask Example Application Using Heroku.md')
+* [Deploying a Python Flask Example Application Using Heroku](https://github.com/BiniyamMelaku2/heroku-deploy-example/blob/main/Deploying%20a%20Python%20Flask%20Example%20Application%20Using%20Heroku.md)
 -  -  -  -  - 
 
 ## 2. Deply Streamlit app

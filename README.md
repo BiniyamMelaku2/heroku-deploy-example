@@ -6,7 +6,7 @@
 * [How to Deploy Machine Learning Models](https://towardsdatascience.com/how-to-deploy-machine-learning-models-601f8c13ff45)
 * [How to Build a Streamlit App in Python](https://pythonforundergradengineers.com/streamlit-app-with-bokeh.html)
 * [Introduction and Installation of Heroku CLI on Windows machine](https://www.geeksforgeeks.org/introduction-and-installation-of-heroku-cli-on-windows-machine/)
-* [Deploying a Python Flask Example Application Using Heroku](https://realpython.com/flask-by-example-part-1-project-setup/")
+* [Deploying a Python Flask Example Application Using Heroku](https://realpython.com/flask-by-example-part-1-project-setup/)
 * [unable to parse Procfile](https://stackoverflow.com/questions/19846342/unable-to-parse-procfile)
 
 -  -  -  -  -  -  -

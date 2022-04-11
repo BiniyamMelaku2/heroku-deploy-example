@@ -3,8 +3,9 @@
 
 ## Resources
 
-*[Deploying a Python Flask Example Application Using Heroku](https://realpython.com/flask-by-example-part-1-project-setup/")
-*[unable to parse Procfile](https://stackoverflow.com/questions/19846342/unable-to-parse-procfile)
+* [Deploying a Python Flask Example Application Using Heroku](https://realpython.com/flask-by-example-part-1-project-setup/")
+
+* [unable to parse Procfile](https://stackoverflow.com/questions/19846342/unable-to-parse-procfile)
 
 
 #### Initializing the Project

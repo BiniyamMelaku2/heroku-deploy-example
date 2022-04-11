@@ -9,7 +9,14 @@
 * [Deploying a Python Flask Example Application Using Heroku](https://realpython.com/flask-by-example-part-1-project-setup/")
 * [unable to parse Procfile](https://stackoverflow.com/questions/19846342/unable-to-parse-procfile)
 
+-  -  -  -  -  -  -
 
+## 1. Deploy Heroku app
+
+-  -  -  -  - 
+
+## 2. Deply Streamlit app
+ 
 ## Installing Streamlit
 > python -m pip install streamlit
 

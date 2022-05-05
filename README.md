@@ -36,7 +36,7 @@
 
 ## 3. Deploy with gitpages and others
 
-* [Deploy with gitpages and others](https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
+* [Deploy your app with Github Pages](https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
 
-* [Deploy with gitpages and others](https://dev.to/prudence97/deploying-your-website-for-free-using-github-or-netlify-36ap)
+* [Host with GitHub or Netlify](https://dev.to/prudence97/deploying-your-website-for-free-using-github-or-netlify-36ap)
 -  -  -  -  - 

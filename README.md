@@ -34,3 +34,9 @@
 ## save a requirements.txt file
 > python -m pip freeze > requirements.txt 
 
+## 2. Deploy with gitpages and others
+
+* [Deploy with gitpages and others](https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)
+
+* [Deploy with gitpages and others](https://dev.to/prudence97/deploying-your-website-for-free-using-github-or-netlify-36ap)
+-  -  -  -  - 

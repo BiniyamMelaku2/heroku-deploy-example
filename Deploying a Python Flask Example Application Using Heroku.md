@@ -7,6 +7,8 @@
 
 * [unable to parse Procfile](https://stackoverflow.com/questions/19846342/unable-to-parse-procfile)
 
+* [Slug cleanup](https://elements.heroku.com/buildpacks/vertragswecker/heroku-buildpack-slug-cleanup)
+
 
 #### Initializing the Project
 
@@ -56,7 +58,9 @@ $ git commit -m "Add Heroku deployment files"
 
 $ heroku create my-example-app
 
-$ git push heroku master
+$ git push heroku main
 
 $ heroku open
+
+""
 
